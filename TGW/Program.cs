@@ -22,7 +22,7 @@ namespace TGW
             //Feature in textual form:
             //You could create an Event that triggers each time a new parameter is added to the dictionary of parameters.
             //That event would be able to change the values of other parameters that are dependant to it.
-            //However that would require the user to set those dependacies while loading a config file.
+            //However that would require the user to set those dependancies while loading a config file.
         }
     }
 
